@@ -1,0 +1,10 @@
+---
+
+product:
+   sender: 'reproductionofanything@gmail.com'
+   secret: 'C:\Users\cemsa\PycharmProjects\password.txt'
+   email_DB: 'C:\Users\cemsa\Documents\PyDBs\secret.db'
+
+author:
+   name: 'Cem Sakarya'
+   email: 'cem.sakarya.pp@gmail.com'

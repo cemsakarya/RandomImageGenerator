@@ -1,0 +1,6 @@
+flask
+flask_restful
+random_word
+requests
+pandas
+pyyaml
